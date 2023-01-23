@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mandipsaikia
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in App Development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me @_mandip_saikia in twitter and instagram or Mandip Saikia in facebook.
